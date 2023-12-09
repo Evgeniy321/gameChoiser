@@ -1,23 +1,31 @@
-Borderlands 2
-Hotline Miami 2 Wrong Number
-Metal Gear Rising Revengeance
-Star Wars Battlefront II
-Fallout 4
-Fallout New Vegas
-Skyrim - Legendary Edition
-Star Wars - Knights of the Old Republic II - The Sith Lords
-The Outer Worlds
-Dota 2
-Honkai Star Rail
-Neverwinter
-Raft
-TLauncher
-Back to the Future The Game
-Disco Elysium
-Pillars of Eternity
-Warcraft 3
-Darkest Dungeon 2
-Necropolis
-Roguelands v1
-PCSX2 1
-RetroArch
+Borderlands 2(action)
+DOOM Eternal(action)
+Hotline Miami 2 Wrong Number(action)
+Metal Gear Rising Revengeance(action)
+Star Wars Battlefront 2(action)
+Star Wars Battlefront II(action)
+Dota 2(online)
+Honkai Star Rail(online)
+Neverwinter(online)
+Raft(online)
+Star Wars - The Old Republic(online)
+SWToR_RUS(online)
+Back to the Future The Game(open world)
+Disco Elysium(open world)
+Fallout 2(open world)
+Fallout 4(open world)
+Fallout New Vegas(open world)
+Pillars of Eternity(open world)
+Skyrim - Legendary Edition(open world)
+Star Wars - Knights of the Old Republic II - The Sith Lords(open world)
+Star Wars - Knights of the Old Republic(open world)
+The Outer Worlds(open world)
+TLauncher(open world)
+Darkest Dungeon 2(rougelike)
+Necropolis(rougelike)
+Rogue Legacy 2(rougelike)
+Roguelands v1(rougelike)
+Punch Club 2 Fast Forward(strategy)
+Sid Meier's Civilization VI(strategy)
+Stellaris(strategy)
+Warcraft 3(strategy)
